@@ -1,7 +1,7 @@
 import Vue from 'vue';
 
 Vue.component('text-editor', {
-  template: '<button>Booh!</button>'
+  template: ''
 });
 
 new Vue({
